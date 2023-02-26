@@ -13,3 +13,4 @@ Hello git!
 Hello git!
 Hello git!
 master change
+hot-fix change
